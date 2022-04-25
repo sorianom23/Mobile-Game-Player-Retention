@@ -9,7 +9,7 @@ Date: April 2022
     - [Data Visualization](#data-visualization)
     - [Roadmap](#roadmap)
     - [Datasets](#datasets)
-            - [Authors: Maria Soriano and Hector Fontenla](#authors-maria-soriano-and-hector-fontenla)
+            - [Authors:](#authors)
 
 ## Description
 This project is aimed to develop **a Machine Learning Model that would be able to predict the critical time (in days) when the player is more likely to stop playing the game.**

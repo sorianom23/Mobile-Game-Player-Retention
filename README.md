@@ -3,6 +3,8 @@
 
 **Date: April 2022**
 
+![Image](https://media-exp1.licdn.com/dms/image/C561BAQE5kFBEK8uE5g/company-background_10000/0/1627261508254?e=2147483647&v=beta&t=NmleYA5R8K4yHWT5by7CeVDpbjNzgrB7pv5U4X-ZQBc)
+
 ## Table of Contents
 - [Machine Learning Project for a Mobile Game](#machine-learning-project-for-a-mobile-game)
     - [Description](#description)
@@ -30,7 +32,5 @@ So we can then act accordingly. Proving the player with some special rewards in 
 ## Datasets
 *The data can not be uploaded as requested by the company for privacy reasons.
 
-## Authors:
+## Authors
 Maria Soriano and Hector Fontenla
-
-![Image](https://media-exp1.licdn.com/dms/image/C561BAQE5kFBEK8uE5g/company-background_10000/0/1627261508254?e=2147483647&v=beta&t=NmleYA5R8K4yHWT5by7CeVDpbjNzgrB7pv5U4X-ZQBc)

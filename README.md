@@ -1,6 +1,7 @@
-# Machine Learning Project for a Mobile Game
-Machine Learning Project
-Date: April 2022
+# **Machine Learning Project for a Mobile Game**
+**Machine Learning Project**
+
+**Date: April 2022**
 
 ## Table of Contents
 - [Machine Learning Project for a Mobile Game](#machine-learning-project-for-a-mobile-game)

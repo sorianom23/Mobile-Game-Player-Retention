@@ -1,5 +1,5 @@
-# **Machine Learning Project for a Mobile Game**
-**Machine Learning Project**
+# **Machine Learning Project for a Mobile Game 👾**
+**🛠 Machine Learning Project 🛠**
 
 **Date: April 2022**
 
@@ -33,4 +33,4 @@ So we can then act accordingly. Proving the player with some special rewards in 
 ## Authors:
 Maria Soriano and Hector Fontenla
 
-!(https://media-exp1.licdn.com/dms/image/C561BAQE5kFBEK8uE5g/company-background_10000/0/1627261508254?e=2147483647&v=beta&t=NmleYA5R8K4yHWT5by7CeVDpbjNzgrB7pv5U4X-ZQBc)
+![Image](https://media-exp1.licdn.com/dms/image/C561BAQE5kFBEK8uE5g/company-background_10000/0/1627261508254?e=2147483647&v=beta&t=NmleYA5R8K4yHWT5by7CeVDpbjNzgrB7pv5U4X-ZQBc)

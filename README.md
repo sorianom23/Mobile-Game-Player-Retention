@@ -40,8 +40,8 @@ So we can then act accordingly. Proving the player with some special rewards in 
 - Creating a Neural Network:
 - [x] Feed Forward Neural Network
 
-- [] Filter data by max_played_days between 1-15
-- []Apply models to filtered data
+- [ ] Filter data by max_played_days between 1-15
+- [ ]Apply models to filtered data
 
 
 

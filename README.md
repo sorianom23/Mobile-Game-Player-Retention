@@ -19,9 +19,9 @@ This project is aimed to develop **a Machine Learning Model that would be able t
 So we can then act accordingly. Proving the player with some special rewards in order to increase the player retention.
 
 ## Technologies used
-- Python
-- Tensorflow
-- Tableau
+- [Python](https://www.python.org/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Tableau](https://public.tableau.com/en-us/s/)
 
 ## Data Visualization
 👉🏼  https://public.tableau.com/views/jetpack_data_visualization/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link  👈🏼
@@ -33,4 +33,4 @@ So we can then act accordingly. Proving the player with some special rewards in 
 *The data can not be uploaded as requested by the company for privacy reasons.
 
 ## Authors
-*[Maria Soriano](https://www.linkedin.com/in/sorianom/)* and *[Hector Fontenla](https://www.linkedin.com/in/hmartinfa/)*
+[Maria Soriano](https://www.linkedin.com/in/sorianom/) and [Hector Fontenla](https://www.linkedin.com/in/hmartinfa/)

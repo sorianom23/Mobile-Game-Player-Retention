@@ -24,7 +24,7 @@ So we can then act accordingly. Proving the player with some special rewards in 
 - [Tableau](https://public.tableau.com/en-us/s/)
 
 ## Data Visualization
-👉🏼  https://public.tableau.com/views/jetpack_data_visualization/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link  👈🏼
+👉🏼  https://acortar.link/ruCF5l  👈🏼
 
 ## Roadmap
 

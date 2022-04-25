@@ -33,4 +33,4 @@ So we can then act accordingly. Proving the player with some special rewards in 
 *The data can not be uploaded as requested by the company for privacy reasons.
 
 ## Authors
-Maria Soriano and Hector Fontenla
+*Maria Soriano and Hector Fontenla*

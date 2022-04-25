@@ -28,6 +28,7 @@ So we can then act accordingly. Proving the player with some special rewards in 
 
 ## Roadmap
 - [x] Exploratory Data Analysis
+
 - Applying Machine Learning Model for prediction:
 - (Using Cross Validation)
 - [x] Decission Tree Regressor 
@@ -35,8 +36,13 @@ So we can then act accordingly. Proving the player with some special rewards in 
 - [x] Random Forest
 - [x] Linear Regression
 - [x] Adaboost
+
 - Creating a Neural Network:
 - [x] Feed Forward Neural Network
+
+- [] Filter data by max_played_days between 1-15
+- []Apply models to filtered data
+
 
 
 ## Datasets

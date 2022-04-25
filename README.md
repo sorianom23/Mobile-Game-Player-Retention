@@ -4,8 +4,6 @@ Date: April 2022
 
 ## Table of Contents
 - [Machine Learning Project for a Mobile Game](#machine-learning-project-for-a-mobile-game)
-            - [Machine Learning Project](#machine-learning-project)
-            - [Date: April 2022](#date-april-2022)
     - [Description](#description)
     - [Technologies used](#technologies-used)
     - [Data Visualization](#data-visualization)

@@ -27,6 +27,16 @@ So we can then act accordingly. Proving the player with some special rewards in 
 👉🏼  https://acortar.link/ruCF5l  👈🏼
 
 ## Roadmap
+- [x] Exploratory Data Analysis
+- Applying Machine Learning Model for prediction:
+- (Using Cross Validation)
+- [x] Decission Tree Regressor 
+- [x] KNN for Regression
+- [x] Random Forest
+- [x] Linear Regression
+- [x] Adaboost
+- Creating a Neural Network:
+- [x] Feed Forward Neural Network
 
 
 ## Datasets

@@ -16,7 +16,7 @@
 
 ## Description
 This project is aimed to develop **a Machine Learning Model that would be able to predict the critical time (in days) when the player is more likely to stop playing the game.**
-So we can then act accordingly. Proving the player with some special rewards in order to increase the player retention.
+So we can then act accordingly. Providing the player with some special rewards in order to increase the player retention.
 
 ## Technologies used
 - [Python](https://www.python.org/)
